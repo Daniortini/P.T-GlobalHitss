@@ -18,7 +18,9 @@ source venv/bin/activate
 pip install -r requirements.txt 
 
 # Una vez instalados los paquetes se procede a la ejecución 
-python . -m 
+python . -m
+-------------------
+
 
 
 ```
