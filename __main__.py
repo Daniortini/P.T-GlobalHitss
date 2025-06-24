@@ -89,7 +89,7 @@ def main():
         title = element.find_element(By.CLASS_NAME, "poly-component__title-wrapper").text
         price = element.find_element(By.CLASS_NAME, "andes-money-amount__fraction").text
 
-        print(f"*** El producto es: {title} y el precio es {price}")  # Muestra resultados en consola
+        print(f"*** El producto es: {title} y el precio es: {price} pesos mexicanos")  # Muestra resultados en consola
 
     # Cierra el navegador al finalizar la prueba
     driver.desconnectedWebDriver()
