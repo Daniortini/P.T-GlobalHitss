@@ -43,6 +43,7 @@ de las opciones
 8. Un vez seleccionado este filtro se muestran los productos de mayor a menor, en la 
 ejecución se podra visualizar en la consola los 5 primeros productos con nombre y precio 
 distinguidos con tres asteriscos "***" al inicio 
-9. Se da por finalizado la prueba y se podrá visualizar en la carpeta "screenshots" las imágenes tomadas del paso a paso anteriormente descrito.
+9. Se da por finalizado la prueba y se podrá visualizar en la carpeta "screenshots" 
+las imágenes tomadas del paso a paso anteriormente descrito.
 
 ```
